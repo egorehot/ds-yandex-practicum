@@ -1,4 +1,4 @@
-# Me Data Science education
+# My Data Science project from education
 
 В данном репозитории находятся проекты наиболее значимые, которые я выполнял в рамках обучения в Яндекс Практикум Data Science.
 
